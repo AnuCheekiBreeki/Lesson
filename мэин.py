@@ -2,7 +2,7 @@ from aiogram import types, executor, Dispatcher, Bot
 from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup, ReplyKeyboardMarkup, KeyboardButton
 
 
-bot = Bot('5733141109:AAEuwSAskLBqyKQtChRXvSw0ixkMgy2E448')
+bot = Bot('TOKEN')
 dp = Dispatcher(bot)
 
 start_keyboard = ReplyKeyboardMarkup(row_width=1, resize_keyboard=True)
