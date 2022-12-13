@@ -5,6 +5,9 @@ from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup, ReplyKeybo
 bot = Bot('TOKEN')
 dp = Dispatcher(bot)
 
+# 12342
+
+
 start_keyboard = ReplyKeyboardMarkup(row_width=1, resize_keyboard=True)
 start_button1 = KeyboardButton(text='Первый юрыль')
 start_button2 = KeyboardButton(text='Второй кульбэк')
