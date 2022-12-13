@@ -5,7 +5,7 @@ from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup, ReplyKeybo
 bot = Bot('TOKEN')
 dp = Dispatcher(bot)
 
-# 12342
+# 1212121212
 
 
 start_keyboard = ReplyKeyboardMarkup(row_width=1, resize_keyboard=True)
