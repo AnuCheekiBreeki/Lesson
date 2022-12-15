@@ -2,7 +2,7 @@ from aiogram import Bot, executor, Dispatcher, types
 from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup, KeyboardButton, ReplyKeyboardMarkup
 import datetime
 
-bot = Bot('5733141109:AAEuwSAskLBqyKQtChRXvSw0ixkMgy2E448') # Бот токен
+bot = Bot('BOT_TOKEN') # Бот токен
 dp = Dispatcher(bot) # Создание Диспетчера
 
 day_for_school = 1 # Учебный день (будет менятся ежедневно)
