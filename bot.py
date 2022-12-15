@@ -1,5 +1,4 @@
 from aiogram import Bot, executor, Dispatcher, types
-from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup, KeyboardButton, ReplyKeyboardMarkup
 from lessons_button import *
 import datetime
 
